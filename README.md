@@ -50,9 +50,9 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
   
 <h2 align="center">⚡ Stats</h2>
 <br>
-<p align=center>
+<!-- <p align=center>
   <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</p> -->
   
 
 <br/>  
