@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-- 👈 I have expertise in smart contract and web3 integration.  
+- 👈 I have expertise in Fullstack - Next.js/React, Angular, Vue.js  
   
 
 - 👀 I’m interested in blockchain world.  
