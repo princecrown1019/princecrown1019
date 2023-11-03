@@ -1,62 +1,71 @@
+# Senior Software Development Engineer
 
-![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
+Hello, Everyone. Thank you for having a look at my profile
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+and+Go+Developer&center=true&size=28">
-  </a>
-</h1>
+I am a super enthusiastic JavaScript and .NET developer who loves solving difficult technical issues.
+JS/TS, React, Angular, Node.js and ASP.NET Core are my specialists.
 
-- 👈 I have expertise in smart contract and web3 integration.  
-  
+Here is a list of what I've worked with:
 
-- 👀 I’m interested in blockchain world.  
-  
+## TECHNOLOGY SUMMARY
 
-- 🌱 Passionate about development and coding.  
-  
+- Languages: JavaScript, TypeScript, C#, Python, PHP, Java, C++, HTML, CSS, Bootstrap
+- Technologies and Frameworks: React.js, Angular, Vue.js, Next.js, Node.js, Redux, RxJs, GraphQL, ASP.NET Core MVC, ASP.NET Core WebAPI, SignalR, Entity Framework Core, WPF, SCSS, Tailwind CSS
+- DBMS: MSSQL, MongoDB, AWS DynamoDB, MySQL, PostgreSQL, Azure SQL Database
+- IDEs and Tools: Visual Studio, Visual Studio Code, Docker, CyPress, Jest, Jasmin, Redux DevTools, Azure DevOps, IIS, Git Bash, PowerShell
+- Other skills:	AWS Cloud Services, Microsoft Azure, Problem Solving, Full Stack Development, Critical Thinking, Algorithm Design, Team-Oriented, SOLID, Agile (Scrum)
 
-- 💞️ I’m looking to collaborate on Blockchain development.  
-  
-## About
+## KEY TECHNICAL SKILLS
 
-Senior engineer with 8+ years of experience building up web & blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
+Front-end development
+- Front-end development using React.js, Next.js, Angular, ASP.NET Core MVC, and jQuery
+- Testing with Jest and Cypress
+- REST API, and GraphQL
+- WebPack and Babel for bundling web applications
 
+Back-end development
+- Web application development with Node.js, ASP.NET Core WebAPI and Entity Framework Core 
+- MongoDB, AWS DynamoDB, MySQL, MS SQL, Azure SQL Database, PostgreSQL databases and AWS, Microsoft Azure cloud services
+- Unit testing with Jest and Jasmine
 
-## Languages and Tool
+Databases
+- Experience in designing databases for distributed systems
+- Experience with optimizing long-running queries by MongoDB aggregations
+- Knowledge of scalability techniques for scaling databases
 
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
-[![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=nodedotjs&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
-[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
+DevOps
+- Experience with Ubuntu and Windows operating systems
+- Experience in automation using provisioning tools like Jenkins
+- Experience with GitHub Actions
+- Experience with CI tools: AWS CodePipeline, Azure Pipelines and Gitlab
 
-[![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/phantom0109/)
-[![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
+Mobile development
+- Experience with Java, and Android
+- Experience with tools: Android Studio, Eclipse
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
+Development methodologies 
+- Agile, Waterfall
+- Unit, integration and e2e testing
+- OOP, SOLID
+- Clean and team-oriented code
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
+Contact
+```
+toptalent0301@gmail.com
+```
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
+## Github Stats
+
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elite's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elite301&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elite's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elite301&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<br/>
 <br/>
 
-<br/>  
-  
-<h2 align="center">⚡ Stats</h2>
-<br>
-<p align=center>
-  <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+## Languages and Tools:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,angular,rxjs,next,html,css,scss,tailwind,jest,webpack,nodejs,express,nestjs,mongodb,cs,dotnet,mysql,sqlite,postgres,graphql,docker,aws,azure,kubernetes,java,python,django,php,laravel,cpp" />
+  </a>
 </p>
-  
-
-<br/>  
-
-
-<br />
-
