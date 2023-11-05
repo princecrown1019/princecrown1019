@@ -51,7 +51,12 @@ Development methodologies
 
 Contact
 ```
-toptalent0301@gmail.com
+princecrown1019@gmail.com
+```
+
+Skype
+```
+live:.cid.d5047c3696261c4d
 ```
 
 ## Github Stats
