@@ -10,7 +10,7 @@ Here is a list of what I've worked with:
 ## TECHNOLOGY SUMMARY
 
 - Languages: JavaScript, TypeScript, C#, Python, PHP, Java, C++, HTML, CSS, Bootstrap
-- Technologies and Frameworks: React.js, Angular, Vue.js, Next.js, Node.js, Redux, RxJs, GraphQL, ASP.NET Core MVC, ASP.NET Core WebAPI, SignalR, Entity Framework Core, WPF, SCSS, Tailwind CSS
+- Technologies and Frameworks: React.js, Angular, Vue.js, Next.js, Node.js, Nest.js, Redux, RxJs, GraphQL, ASP.NET Core MVC, ASP.NET Core WebAPI, SignalR, Entity Framework Core, WPF, SCSS, Tailwind CSS
 - DBMS: MSSQL, MongoDB, AWS DynamoDB, MySQL, PostgreSQL, Azure SQL Database
 - IDEs and Tools: Visual Studio, Visual Studio Code, Docker, CyPress, Jest, Jasmin, Redux DevTools, Azure DevOps, IIS, Git Bash, PowerShell
 - Other skills:	AWS Cloud Services, Microsoft Azure, Problem Solving, Full Stack Development, Critical Thinking, Algorithm Design, Team-Oriented, SOLID, Agile (Scrum)
