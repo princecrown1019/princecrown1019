@@ -54,9 +54,9 @@ Contact
 princecrown1019@gmail.com
 ```
 
-Skype
+WhatsApp
 ```
-live:.cid.d5047c3696261c4d
++5511992515194
 ```
 
 ## Github Stats
